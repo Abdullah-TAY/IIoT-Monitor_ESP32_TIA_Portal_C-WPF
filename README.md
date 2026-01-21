@@ -40,3 +40,5 @@ This project demonstrates a full-stack Industrial IoT pipeline. It captures real
 ---
 *Created by Abdullah Khanzada*
 https://www.linkedin.com/in/abdullahkhanzada/
+🤝 Collaboration with: Muhammad Ibad
+https://www.linkedin.com/in/muhammad-ibad-013016137/
