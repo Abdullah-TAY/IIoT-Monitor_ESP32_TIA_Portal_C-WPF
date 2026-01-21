@@ -1,0 +1,9 @@
+# Ignore Visual Studio temporary files
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Ignore TIA Portal Lock files (optional, TIA binaries are hard to version control anyway)
+*.lck

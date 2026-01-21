@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\esp32.jpg" />
+    <None Remove="Images\modbus.jpg" />
+    <None Remove="Images\siemens.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="S7netplus" Version="0.20.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\esp32.jpg" />
+    <Resource Include="Images\modbus.jpg" />
+    <Resource Include="Images\siemens.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5aA2ieNB0Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdul\\source\\repos\\SensorData\\SensorData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\s7netplus\\0.20.0\\s7netplus.0.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}
